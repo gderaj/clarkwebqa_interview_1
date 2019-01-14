@@ -11,7 +11,7 @@
 ### Pre-test steps
 
 * clone this repository
-* create a new branch using the following pattern: `git branch -b v1_your_name`
+* create a new branch using the following pattern: `git checkout -b v1_your_name`
 
 ### Your task
 
