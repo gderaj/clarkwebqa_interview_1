@@ -27,13 +27,11 @@ The project already includes the C# Selenium and Selenium Support Nuget packages
 
 ### Post-test steps
 
-* commit your code
-    * either use the IDE or with git commands:
+* Commit your code using either the IDE or with git commands:
     ```ssh
     $ git commit -am "your commit message"
     ```
-* push your branch
-    * either use the IDE or with git commands:
+* Push your branch using either the IDE or with git commands:
     ```ssh
     $ git push origin v1_your_name
     ```
