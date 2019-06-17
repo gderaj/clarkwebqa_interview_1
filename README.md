@@ -12,6 +12,8 @@
 
 * clone this repository
 * create a new branch using the following pattern: `git checkout -b v1_yyyymmdd_yourname`. Ex: v1_20190101_firstlast
+* open the .sln file
+* get started!
 
 ### Your task
 
