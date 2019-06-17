@@ -1,4 +1,4 @@
-# Clark Associates Automation Engineer Practice Test
+# Webstaurantstore Automation Engineer Practice Test
 
 ### Requirements
 
