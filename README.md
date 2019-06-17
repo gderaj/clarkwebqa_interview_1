@@ -11,19 +11,17 @@
 ### Pre-test steps
 
 * clone this repository
-* create a new branch using the following pattern: `git checkout -b v1_your_name`
+* create a new branch using the following pattern: `git checkout -b v1_yyyymmdd_yourname`. Ex: v1_20190101_firstlast
 
 ### Your task
 
-Using Page Objects, write a Selenium test that:
+The project already includes the C# Selenium and Selenium Support Nuget packages. ChromeDriver will be automatically added to the project's `\bin` folder when built. 
 
-* searches for the valentine: "Lets Grow Old Together!"
-* adds the valentine to cart
-* asserts that the correct valentine and price appear in cart
+You will receive the specific requirements of your task prior to your scheduled interview. In addition to these, requirements are:
 
-You will use the following site to perform your tests: http://awful-valentine.com/. This is a practice site designed to be used for testing automation code. There are a handful of valentines that can be "purchased."
-
-The project already includes the C# Selenium and Selenium Support Nuget packages. ChromeDriver will be automatically added to the project's `\bin` folder when built.
+* the Page Object pattern is utilized
+* the project compiles successfully
+* any assertions written should pass
 
 ### Post-test steps
 
@@ -33,5 +31,5 @@ The project already includes the C# Selenium and Selenium Support Nuget packages
     ```
 * Push your branch using either the IDE or with git commands:
     ```ssh
-    $ git push origin v1_your_name
+    $ git push origin v1_yyyymmdd_yourname
     ```
