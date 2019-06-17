@@ -12,12 +12,10 @@
 
 * clone this repository
 * create a new branch using the following pattern: `git checkout -b v1_yyyymmdd_yourname`. Ex: v1_20190101_firstlast
-* open the .sln file
+* open the .sln file (The project already includes the C# Selenium and Selenium Support Nuget packages. ChromeDriver will be automatically added to the project's `\bin` folder when built.)
 * get started!
 
 ### Your task
-
-The project already includes the C# Selenium and Selenium Support Nuget packages. ChromeDriver will be automatically added to the project's `\bin` folder when built. 
 
 You will receive the specific requirements of your task prior to your scheduled interview. In addition to these, requirements are:
 
