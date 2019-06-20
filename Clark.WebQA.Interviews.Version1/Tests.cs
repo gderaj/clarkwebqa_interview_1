@@ -12,6 +12,7 @@ namespace Tests
         {
             // load chromedriver.exe from the bin folder
             var driver = new ChromeDriver(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location));
+            driver.Url = "https://www.google.com/";
         }
     }
 }
